@@ -16,7 +16,7 @@ int main(int argc, char* argv[]) {
     std::cout << "NGIATE KAMNANG INGRID\n";
     // Affichage de ma ville sur une ligne
     std::cout << "YAOUNDE";
-    return 3;
+    return 0;
 }
 ```
 
