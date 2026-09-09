@@ -1,4 +1,4 @@
-# C1-Exo4 — Un même fichier source, deux noms d'exécutable
+# C1-Exo5 — Un même fichier source, deux noms d'exécutable
 
 ## Objectif
 
@@ -32,6 +32,8 @@ Aucune autre différence entre les deux commandes que l'option `-o`.
 Les deux fichiers binaires ont exactement la même taille (16360 octets) : ce sont deux
 copies indépendantes, mais strictement identiques en contenu mais juste de nom differents.
 
+##  Conclusion : 
+le nom du fichier source n'a aucun lien obligatoire avec le nom de l'exécutable  seul le -o détermine ce dernier, le nom du .cpp étant juste une étiquette pour le compilateur.
 
 ## Auteur
 
