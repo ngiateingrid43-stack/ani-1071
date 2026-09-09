@@ -1,4 +1,4 @@
-#include <iostream>
+#include <cstdio>
 int main(int argc, char* argv[]) {
     // Affichage de mon nom sur une ligne
     std::cout << "NGIATE KAMNANG INGRID";
