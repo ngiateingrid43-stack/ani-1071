@@ -1,4 +1,4 @@
-# C1-Exo1 — Trois fautes introduites une par une (avec printf / cstdio)
+# C1-Exo3 — Trois fautes introduites une par une (avec printf / cstdio)
 
 > Remarque technique : `clang++` n'étant pas disponible dans mon environnement d'exécution,
 > j'ai compilé avec `g++ -std=c++17 -Wall`. Les catégories d'erreurs et les étapes de la
