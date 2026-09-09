@@ -5,5 +5,4 @@ int main(int argc, char* argv[]) {
     // Affichage de ma ville sur une ligne
     std::cout << "YAOUNDE";
     return 0;
-    
 }
