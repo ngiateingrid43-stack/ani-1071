@@ -25,10 +25,10 @@ wc -l sortie.txt
 ## Résultat obtenu
 
 ```
-35881 sortie.txt
+35880 sortie.txt
 ```
 
-**6 lignes écrites → 36 588 lignes produites.**
+**6 lignes écrites → 35880 lignes produites.**
 
 ## Explication de l'écart
 
