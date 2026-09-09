@@ -1,4 +1,4 @@
-# C1-Exo12 — Avertissement vs erreur (`-Wall -Wextra`)
+# C1-Exo10 — Avertissement vs erreur (`-Wall -Wextra`)
 
 ## Test
 
